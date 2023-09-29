@@ -9,3 +9,6 @@ npm run dev
 ```
 npm run dev
 ```
+
+### wrangler docs
+https://developers.cloudflare.com/workers/wrangler/commands/#dev
